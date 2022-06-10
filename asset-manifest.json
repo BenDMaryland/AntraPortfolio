@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/AntraPortfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/AntraPortfolio/static/js/main.efddbb14.js",
+    "index.html": "/AntraPortfolio/index.html",
+    "main.efddbb14.js.map": "/AntraPortfolio/static/js/main.efddbb14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.efddbb14.js"
+  ]
+}
