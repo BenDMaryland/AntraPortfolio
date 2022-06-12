@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/AntraPortfolio/static/css/main.99756094.css",
-    "main.js": "/AntraPortfolio/static/js/main.3e5b690c.js",
+    "main.css": "/AntraPortfolio/static/css/main.2c967b69.css",
+    "main.js": "/AntraPortfolio/static/js/main.b8aaa0b4.js",
     "static/media/architecture-2178604_1920-main1.jpg": "/AntraPortfolio/static/media/architecture-2178604_1920-main1.66d1579cec94bfc059b0.jpg",
     "static/media/apple-1838564_1920-main.jpg": "/AntraPortfolio/static/media/apple-1838564_1920-main.4a6cfe1a160f96454b7b.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/AntraPortfolio/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/luvtalklogo.png": "/AntraPortfolio/static/media/luvtalklogo.0da8fe28476a76283c0c.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/AntraPortfolio/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/aboutbackground.jpg": "/AntraPortfolio/static/media/aboutbackground.5ceedb492be9a76b1053.jpg",
     "static/media/mlbproject.png": "/AntraPortfolio/static/media/mlbproject.e4478841a6cf147d019c.png",
-    "static/media/logo.svg": "/AntraPortfolio/static/media/logo.abbc44ce303f2be9ecaa.svg",
+    "static/media/glyphicons-halflings-regular.woff": "/AntraPortfolio/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/AntraPortfolio/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/AntraPortfolio/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/logo.svg": "/AntraPortfolio/static/media/logo.abbc44ce303f2be9ecaa716f956641fc.svg",
+    "static/media/innovativesolutions.svg": "/AntraPortfolio/static/media/innovativesolutions.eea44e10502c0ca4ea6dfa48935eabad.svg",
     "static/media/linkedin.svg": "/AntraPortfolio/static/media/linkedin.3742dae6f021b1bd5576a010e06a8ca6.svg",
+    "static/media/developerdesign.svg": "/AntraPortfolio/static/media/developerdesign.d5b0330c5df9b15077bb1b2c0c75d89e.svg",
+    "static/media/responsivedesign.svg": "/AntraPortfolio/static/media/responsivedesign.77ac613ca9250b0a160a73450dccba07.svg",
+    "static/media/passion.svg": "/AntraPortfolio/static/media/passion.93ca893d9c87548dd3f1c2a36f0fadf7.svg",
     "static/media/pinterest.svg": "/AntraPortfolio/static/media/pinterest.2eed66f56302b59c509a86262acfaad0.svg",
     "static/media/email.svg": "/AntraPortfolio/static/media/email.0db412e8921084f6735591f317f5fe53.svg",
     "static/media/facebook.svg": "/AntraPortfolio/static/media/facebook.9239683b5a8c7bdaf06f18ce5c860850.svg",
     "index.html": "/AntraPortfolio/index.html",
-    "main.99756094.css.map": "/AntraPortfolio/static/css/main.99756094.css.map",
-    "main.3e5b690c.js.map": "/AntraPortfolio/static/js/main.3e5b690c.js.map"
+    "main.2c967b69.css.map": "/AntraPortfolio/static/css/main.2c967b69.css.map",
+    "main.b8aaa0b4.js.map": "/AntraPortfolio/static/js/main.b8aaa0b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.99756094.css",
-    "static/js/main.3e5b690c.js"
+    "static/css/main.2c967b69.css",
+    "static/js/main.b8aaa0b4.js"
   ]
 }
