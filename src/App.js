@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom"
 import Footer from './components/Footer';
 import Portfolio from './components/Portfolio';
 import Contacts from './components/Contacts';
-import "./boostrap/css/bootstrap.min.css"
+
 
 
 function App() {
